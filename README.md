@@ -14,6 +14,8 @@ c. Describe the steps to open a pull request?
 4) From drop-down menu choose that you want to create a pull request from which branch to which branch.
 5) Review the changes.
 6) Click on the green "Create pull request" button on top right.
+7) Add a title and a description for the pull request.
+8) Click on the green "Create pull request" button.
 
 d. Describe the steps to add a collaborator to a repository (share write permissions)
 1) Go into the corresponding repository.
